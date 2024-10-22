@@ -19,4 +19,4 @@
 >    Estimates ages with months of precision.
 
 >[!CHECK] Solved
->- What does AF mean exactly?
+>- [[Class activities/Exact meaning of AF\|Exact meaning of AF]]
