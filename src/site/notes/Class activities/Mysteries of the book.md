@@ -9,7 +9,7 @@
 > ~~What does AF mean exactly?~~
 > - How do robots work?
 > - [[Class activities/The Mental Seal\|The Mental Seal]]
-> - Why would someone program biases in a robot that is supposed to raise children?
+> - Why would someone program biases in a robot that is supposed to raise young teenagers?
 
 >[!INFO] Curiosities
 > - What on earth is the RPO Building?
