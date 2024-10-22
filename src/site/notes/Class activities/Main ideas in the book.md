@@ -17,6 +17,7 @@
 [[Class activities/Mysteries of the book\|Mysteries of the book]]
 [[Class activities/Exact meaning of AF\|Exact meaning of AF]]
 [[Class activities/Implications in our reality\|Implications in our reality]]
+[[Class activities/Differences from our world\|Differences from our world]]
 
 ## Diary of specific events
 
