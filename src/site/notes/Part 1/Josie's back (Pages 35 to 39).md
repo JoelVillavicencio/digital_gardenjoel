@@ -21,4 +21,4 @@ Her mother did me a job interview, which I passed with fear. Now I'm Josie's AF,
 ___
 #### Next note:
 
-[[AA_Instructionsfortemplates/Template_note_from_mental_map\|Template_note_from_mental_map]]
+[[Part 1/Pages 40 to\|Pages 40 to]]
