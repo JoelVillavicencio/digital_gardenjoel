@@ -4,12 +4,15 @@
 
 #Mappingnarrative  
 
->[!WARNING] Main
+>[!ERROR] Main
 > - Origin of [[Sun religion\|Sun religion]]
 > ~~What does AF mean exactly?~~
 > - How do robots work?
 > - [[Class activities/The Mental Seal\|The Mental Seal]]
 > - Why would someone program biases in a robot that is supposed to raise young teenagers?
+>> [!WARNING] The house
+>> - Josie's health
+>> - The mom
 
 >[!INFO] Curiosities
 > - What on earth is the RPO Building?

@@ -15,6 +15,7 @@
 >- Female
 >- Short hair
 >- Dark-skinned
+>(Or maybe that was her hair? It could be, but I decide to think not because of two reasons: Dark is the most common hair colour, so there'd wouldn't be a need to use it as an identifier unless AFs had a variety of hair colours; short hair hairstyles are usually used with dark hair.
 >- Black clothing
 
 >[!DANGER] Unique
