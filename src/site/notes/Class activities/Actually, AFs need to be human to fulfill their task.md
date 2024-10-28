@@ -7,7 +7,7 @@ What if to react accordingly to their teenagers' emotions they would require to 
 Programmers could have said "F*** off, having a standard computer program do the job is too difficult, let's just give them sentience". Or maybe clients didn't want to be disillusioned with a [Chinese room](https://en.wikipedia.org/wiki/Chinese_room) and exerted pressure on whatever tech company creates AFs to **make them real**.
 
 I got the idea to write this note while I was being idle in TV Tropes, so it is fair to include the article that inspired it:
-<iframe src="https://tvtropes.org/pmwiki/pmwiki.php/Main/RidiculouslyHumanRobots" allow="fullscreen" allowfullscreen="" style="height: 100%; width: 100%; aspect-ratio: 1 / 1;"></iframe>
+<iframe title="Ridiculously Human Robots" src="https://tvtropes.org/pmwiki/pmwiki.php/Main/RidiculouslyHumanRobots" allow="fullscreen" allowfullscreen="" style="height: 100%; width: 100%; aspect-ratio: 1 / 1;"></iframe>
 This is not an image, it's an actual website.
 
 Let's not forget that AFs are a replacement of humans, so making them as faulty as humans would not only be a rational decision, but _the goal_. 
