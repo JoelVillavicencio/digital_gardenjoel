@@ -2,11 +2,16 @@
 {"dg-publish":true,"permalink":"/class-activities/main-ideas-in-the-book/","tags":["gardenEntry"]}
 ---
 
-eeeeee#Mappingnarrative 
+#Mappingnarrative 
 
 >[!Info] Link to Actively Learn
 >[Link](https://reader.activelylearn.com/student/7395174/notes)
-
+<article class="forecast">
+<center>
+  <h1>Klara and the Sun</h1>
+</center>
+</article>
+![Captura de pantalla 2024-10-28 125616.png](/img/user/Captura%20de%20pantalla%202024-10-28%20125616.png)
 ## Check this mental map explaining the concepts of the story, worldbuilding, theories and much more!
 
 ![Mental map.png](/img/user/Archives/Mental%20map.png)

@@ -23,3 +23,8 @@
 
 >[!CHECK] Solved
 >- [[Class activities/Exact meaning of AF\|Exact meaning of AF]]
+
+### Answer attempts :
+[[Class activities/Josie's curious health condition\|Josie's curious health condition]]
+[[Class activities/Mother\|Mother]]
+[[Class activities/Actually, AFs need to be human to fulfill their task\|Actually, AFs need to be human to fulfill their task]]

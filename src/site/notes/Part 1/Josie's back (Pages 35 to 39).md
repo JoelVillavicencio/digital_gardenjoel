@@ -21,4 +21,4 @@ Her mother did me a job interview, which I passed with fear. Now I'm Josie's AF,
 ___
 #### Next note:
 
-[[Part 1/Pages 40 to\|Pages 40 to]]
+[[Part 1/The house (Pages 40 to 41)\|The house (Pages 40 to 41)]]
