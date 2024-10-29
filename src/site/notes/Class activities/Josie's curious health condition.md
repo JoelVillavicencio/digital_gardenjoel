@@ -13,6 +13,8 @@
 
 -What Klara noted
 
+Josie ==vomits== and has ==pale feces==. (Part 2, paragraph 26)
+
 >‘They’re gray, ma’am.’  
 
 -Klara on Josie's eyes

@@ -11,5 +11,6 @@ Josie is not very disciplined and Mother seems to be an avid believer of the neg
 
 ___
 #### Next note:
+[[Part 1/Untitled\|Untitled]]
 
 
