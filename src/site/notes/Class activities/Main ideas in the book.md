@@ -11,7 +11,7 @@
   <h1>Klara and the Sun</h1>
 </center>
 </article>
-<center> <iframe src="https://drive.google.com/file/d/1bSi9M1iMFNQPjTlR5sYOwOKz1e--UnNT/view?usp=sharing" allow="fullscreen" allowfullscreen="" style="height: 100%; width: 100%; aspect-ratio: 1 / 1;"></iframe> </center>
+![Captura de pantalla 2024-10-28 125616.png|600](/img/user/Archives/Captura%20de%20pantalla%202024-10-28%20125616.png)
 ## Check this mental map explaining the concepts of the story, worldbuilding, theories and much more!
 
 ![Mental map.png](/img/user/Archives/Mental%20map.png)
