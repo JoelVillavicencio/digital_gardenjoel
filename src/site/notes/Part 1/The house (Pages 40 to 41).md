@@ -13,7 +13,7 @@ In the magazine I got used to seeing other AFs both inside and outside, it's har
 [^1]: I thought it was an identifier that Klara used, but it actually is a name for a part of the kitchen! [Look it up](https://es.slideshare.net/slideshow/kitchen-diagram-33844731/33844731).
 ___
 #### Next note:
-[[Part 1/Pages 41 to\|Pages 41 to]]
+[[Part 2/Pages 41 to\|Pages 41 to]]
 
 
 
