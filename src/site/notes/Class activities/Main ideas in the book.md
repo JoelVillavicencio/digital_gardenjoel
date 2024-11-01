@@ -11,8 +11,8 @@
   <h1>Klara and the Sun</h1>
 </center>
 </article>
-![Drawing of Klara.png](/img/user/Archives/Drawing%20of%20Klara.png)
-## Chec this mental map explaining the concepts of the story, worldbuilding, theories and much more!
+![Mental map.png](/img/user/Archives/Mental%20map.png)
+## Check this mental map explaining the concepts of the story, worldbuilding, theories and much more!
 
 ![Mental map.png](/img/user/Archives/Mental%20map.png)
 ## Links to individual notes of the mental map :
