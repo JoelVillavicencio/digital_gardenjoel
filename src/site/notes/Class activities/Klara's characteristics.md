@@ -10,6 +10,8 @@
 > - Needs sleep
 > - Aesthetic characteristics: being cute, having hair (At least for female models (paragraphs 63-66))
 > - Can feel pain (paragraph 148)
+> - Capability of diagnosis (Josie's walk)
+> - No photographic memory (2, paragraph 79)
 
 >[!EXAMPLE] Model
 >- Female

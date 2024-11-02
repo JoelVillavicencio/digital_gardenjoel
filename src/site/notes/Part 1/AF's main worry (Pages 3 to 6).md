@@ -2,6 +2,8 @@
 {"dg-publish":true,"permalink":"/part-1/af-s-main-worry-pages-3-to-6/"}
 ---
 
+#TimewithManager 
+
 Boy AF Rex is mean to me, even though what he said about getting sick was true, the way in which he expressed himself let me thinking that I did something wrong.
 
 A girl got obsessed with Boy AF Rex, but her mom decided not to take him.

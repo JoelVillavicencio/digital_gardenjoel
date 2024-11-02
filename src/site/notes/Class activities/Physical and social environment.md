@@ -20,5 +20,5 @@ The story is set in a world like ours, with the same countries. City mobility lo
 2. Now Klara is not with Rosa all the time, she gets to spend time with other robots like Girl AF Kiku. Boy AF Rex appears again like if he hadn't been traumatised a few pages ago. 4 newer models, B3s, are introduced, three of them are bought. Rosa and Boy AF Rex are also bought. 3 other B3s are put in stock.
 
 ## Pages 40–?
- 1. They're in Josie's house, it is located in a rural area with a view of three fields.
- 2. Melanie Housekeeper is introduced.
+ 1. They're in Josie's house, it is located in a rural area with a view of three fields. Mr MacBain's "barn" is first described.
+	 1. Melanie Housekeeper is introduced, Josie talks about Rick.

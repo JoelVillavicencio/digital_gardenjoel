@@ -2,6 +2,8 @@
 {"dg-publish":true,"permalink":"/class-activities/actually-a-fs-need-to-be-human-to-fulfill-their-task/"}
 ---
 
+#Mappingnarrative 
+
 What if to react accordingly to their teenagers' emotions they would require to have those emotions themselves?
 
 Programmers could have said "F*** off, having a standard computer program do the job is too difficult, let's just give them sentience". Or maybe clients didn't want to be disillusioned with a [Chinese room](https://en.wikipedia.org/wiki/Chinese_room) and exerted pressure on whatever tech company creates AFs to **make them real**.

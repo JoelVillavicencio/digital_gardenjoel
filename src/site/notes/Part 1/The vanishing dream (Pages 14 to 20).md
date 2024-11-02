@@ -3,7 +3,7 @@
 ---
 
 17-10-2024 04:54
-
+#TimewithManager
 Maybe we don't see many AFs because they avoid the magazine, what if they don't want their kids to see newer models that could replace them?
 
 Some of the AFs and kids with AFs don't see happy at all. Finding a child is not a synonym of finding a home.

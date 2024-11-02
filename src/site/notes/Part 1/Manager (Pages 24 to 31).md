@@ -3,6 +3,7 @@
 ---
 
 20-10-2024 16:01
+#TimewithManager 
 
 Now that I'm in my second period mid-store I get to spend more time with other AFs.
 
