@@ -7,7 +7,7 @@
 >[!Info] Link to Actively Learn
 >[Link](https://reader.activelylearn.com/student/7395174/notes)
 
-![Drawing of Klara.png|center](/img/user/Archives/Drawing%20of%20Klara.png)
+ ![Drawing of Klara.png|center](/img/user/Archives/Drawing%20of%20Klara.png) 
 ## Check this mental map explaining the concepts of the story, worldbuilding, theories and much more!
 
 ![Mental map.png](/img/user/Archives/Mental%20map.png)
