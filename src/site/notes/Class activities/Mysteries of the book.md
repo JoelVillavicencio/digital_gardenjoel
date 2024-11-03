@@ -26,5 +26,5 @@
 
 ### Answer attempts :
 [[Class activities/Josie's curious health condition\|Josie's curious health condition]]
-[[Class activities/Mother\|Mother]]
+[[Class activities/Arthur\|Arthur]]
 [[Class activities/Actually, AFs need to be human to fulfill their task\|Actually, AFs need to be human to fulfill their task]]

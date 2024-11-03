@@ -3,7 +3,7 @@
 ---
 
 #Mappingnarrative
-The story is set in a world like ours, with the same countries. City mobility looks the same, people have cellphones, poverty and pollution are still a thing.
+The story is set in a world like ours, with the same countries. City mobility looks the same, people have cellphones, poverty and pollution are still a thing, the current generation is lonelier that the last.
 ## Pages 1–9
 
 1. She's in a magazine next to a RPO building (who knows what that is). Firstly, she's in a table, and then she's moved behind display window, just close enough to feel some of the sun. She's later taken to be displayed.
@@ -20,5 +20,5 @@ The story is set in a world like ours, with the same countries. City mobility lo
 2. Now Klara is not with Rosa all the time, she gets to spend time with other robots like Girl AF Kiku. Boy AF Rex appears again like if he hadn't been traumatised a few pages ago. 4 newer models, B3s, are introduced, three of them are bought. Rosa and Boy AF Rex are also bought. 3 other B3s are put in stock.
 
 ## Pages 40–?
- 1. They're in Josie's house, it is located in a rural area with a view of three fields. Mr MacBain's "barn" is first described.
-	 1. Melanie Housekeeper is introduced, Josie talks about Rick.
+ 1. They're in Josie's house, it is located in a rural area with a view of three fields. Mr MacBain's "barn" is first described. It is revealed that they can do short trips to Morgan's Falls, so they live somewhere near Wisconsin.
+1. Melanie Housekeeper is introduced, the same with Rick. There is a social meeting in the house.

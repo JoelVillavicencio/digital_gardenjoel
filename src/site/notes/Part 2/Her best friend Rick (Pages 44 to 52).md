@@ -21,4 +21,4 @@ They're meeting on Tuesday, I wonder what will happen.
 ___
 #### Next note:
 
-[[Part 2/Pages 52 to\|Pages 52 to]]
+[[Part 2/The meeting (Pages 52 to 68)\|The meeting (Pages 52 to 68)]]
