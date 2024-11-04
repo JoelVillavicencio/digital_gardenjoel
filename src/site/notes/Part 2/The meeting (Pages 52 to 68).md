@@ -10,13 +10,13 @@ Some drama occurred, I don't get it due to lack of context, I'll update once I'v
 
 Well, the Sun is being the Sun, pouring his nourishment into some kids.
 
-Josie turned to some girl and Rick is by himself, everyone is being nice to him, in a condescending way. Josie's angry, towards Rick, towards the girls that started a conversation with him? I don't know.
+Josie turned to some girl and Rick is by himself, everyone is being nice to him, in a condescending way. Josie's angry, towards Rick, or towards the girls that started a conversation with him? I don't know.
 
 Josie distracted everyone by introducing me.
 
 > That was easier than expected.
 
-Her "friends" started toying with me and Josie, moved by peer pressure, said she would have preferred to buy a B3.
+Her "friends" started toying with me and Josie, moved by peer pressure, she said she would have preferred to buy a B3.
 
 > This event is a similar level of sadness to the dead of Beggar Man.
 

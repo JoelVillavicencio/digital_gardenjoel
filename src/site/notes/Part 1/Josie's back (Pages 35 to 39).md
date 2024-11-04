@@ -19,6 +19,6 @@ Her mother did me a job interview, which I passed with fear. Now I'm Josie's AF,
 
 [^1]: Check Model's tables
 ___
-#### Next note:
+#### Part Two:
 
-[[Part 1/The house (Pages 40 to 41)\|The house (Pages 40 to 41)]]
+[[Part 1/The house (Pages 40 to 41) l Beginning of Part Two\|The house (Pages 40 to 41) l Beginning of Part Two]]

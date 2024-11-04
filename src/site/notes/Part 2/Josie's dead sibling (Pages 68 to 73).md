@@ -17,6 +17,6 @@ Now I understand why the Mother was so sad when Sal being mentioned in the meeti
 [^1]: A waterfall in Wisconsin
 ___
 #### Next note:
-[[Part 2/Pages 73 to\|Pages 73 to]]
+[[Part 2/Emotions (Pages 73 to 76)\|Emotions (Pages 73 to 76)]]
 
 

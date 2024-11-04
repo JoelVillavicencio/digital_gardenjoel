@@ -15,7 +15,7 @@
 
 Josie ==vomits== and has ==pale feces==. (Part 2, paragraph 26)
 
-Josie gets tired with little physical exercise. (2, paragraph 79)
+Josie gets tired with little physical exercise. (2, paragraph 79), and exhausted for no reason (2, 447).
 
 >‘They’re gray, ma’am.’  
 

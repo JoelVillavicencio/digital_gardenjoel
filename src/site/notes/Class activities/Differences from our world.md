@@ -11,5 +11,3 @@ So basically, everything AF-related.
 There are some things that are just hyperboles of thing already existing in our world, like the Cooting's machine, which is a symbol of pollution.
 
 Mode is a tad different, that or the twelve-year-old girl with spiky hair is an outlier. In (2, 238) Rick confirms that clothes and restaurants have changed.
-
-And there are reflective boxes, which is probably the most useless thing that I've remarked on these notes so far.

@@ -3,7 +3,7 @@
 ---
 
 #Mappingnarrative
-The story is set in a world like ours, with the same countries. City mobility looks the same, people have cellphones, poverty and pollution are still a thing, the current generation is lonelier that the last.
+The story is set in a world like ours, with the same countries. City mobility looks the same, people have cellphones, poverty and pollution are still a thing.
 ## Pages 1–9
 
 1. She's in a magazine next to a RPO building (who knows what that is). Firstly, she's in a table, and then she's moved behind display window, just close enough to feel some of the sun. She's later taken to be displayed.

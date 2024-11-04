@@ -11,6 +11,7 @@
 > - Aesthetic characteristics: being cute, having hair (At least for female models (paragraphs 63-66))
 > - Can feel pain (paragraph 148)
 > - Capability of diagnosis (Josie's walk)
+> - Vision divided in boxes. I have the informed suspicion that there are 8 main boxes and 12 peripheral boxes.
 
 >[!EXAMPLE] Model
 >- Female
@@ -26,5 +27,6 @@
 >- Capability for info absorption
 >- No photographic memory (2, paragraph 79)
 >- Just wanted to say some random kid confirmed she's cute (2, paragraph 213)
+>- She fears bulls like they're some unearthed cosmic horror (2, 533)
 
 
