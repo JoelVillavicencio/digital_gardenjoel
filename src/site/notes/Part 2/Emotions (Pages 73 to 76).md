@@ -4,7 +4,7 @@
 
 03-11-2024 09-11
 
-I think the mother doubts I have emotions, just because I'm mannered and obliging doesn't mean I don't have emotions. So far, I have showed signs of all emotions except for very strong negative ones like rage. And, of course, there are emotions like hangry or couple's love that couldn't happen in a being like me.
+I think the mother doubts I have emotions, just because I'm mannered and obliging doesn't mean I don't have emotions. So far, I have showed signs of all emotions except for very strong ones like rage or euphoria. And, of course, there are emotions like hangry or couple's love that couldn't happen in a being like me.
 
 > Klara, I'm not a doctor, and I'm still going to say this. Have you considered you show signs of Aspergers?
 

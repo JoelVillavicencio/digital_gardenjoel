@@ -12,13 +12,17 @@
 > - Can feel pain (paragraph 148)
 > - Capability of diagnosis (Josie's walk)
 > - Vision divided in boxes. I have the informed suspicion that there are 8 main boxes and 12 peripheral boxes.
+> - Capability of lying (3, 201)
 
->[!EXAMPLE] Model
->- Female
->- Short hair
->- Dark-skinned
->(Or maybe that was her hair? It could be, but I decide to think not because of two reasons: Dark is the most common hair colour, so there'd wouldn't be a need to use it as an identifier unless AFs had a variety of hair colours; short hair hairstyles are usually used with dark hair.
->- Black clothing
+>[!EXAMPLE] B2
+>- Incapable of smelling
+> >[!EXAMPLE] Fourth series
+>>>[!EXAMPLE] Specific model
+>>>- Female
+>>>- Short hair
+>>>- Dark-skinned
+>>>(Or maybe that was her hair? It could be, but I decide to think not because of two reasons: Dark is the most common hair colour, so there'd wouldn't be a need to use it as an identifier unless AFs had a variety of hair colours; short hair hairstyles are usually used with dark hair.
+>>>- Black clothing
 
 >[!DANGER] Unique
 >- Every AF is unique

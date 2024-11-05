@@ -14,7 +14,9 @@ The Mother is an avid believer of the neglectful parenting style. Josie's attach
 
 > Is this a highly-figurative lyrical text? Is Klara's perception of colour the same of as a marine mantis's? The real sky isn't divided into squares, never. Probably I'm overthinking this fragment. If when I finish the book without discovering anything weird about it, I'll erase this part, if not, here is a note containing my findings:
 
-> Klara's vision is divided into squares and that's why she sees the sky like that. I'm surprised I took too long to notice it. If I remember well, they were mentioned since a description Manager in the store.
+> Note: Klara's vision is divided into boxes and that's why she sees the sky like that. I'm surprised I took too long to notice it. If I remember well, they were mentioned since a description Manager in the store.
+
+> Note to the note: [Ishiguro said](https://www.waterstones.com/blog/an-exclusive-qanda-with-kazuo-ishiguro-on-klara-and-the-sun) she sees the world in boxes in moments of confusion or stress.
 ___
 #### Next note:
 

@@ -20,11 +20,12 @@
 >    I'm not good at estimating ages.
 >    Also Klara: 
 >    Estimates ages with months of precision.
+>    How can Klara be so precise in some things like ages and height? (3, 335)
 
 >[!CHECK] Solved
 >- [[Class activities/Exact meaning of AF\|Exact meaning of AF]]
 
 ### Answer attempts :
 [[Class activities/Josie's curious health condition\|Josie's curious health condition]]
-[[Class activities/Arthur\|Arthur]]
+[[Class activities/Chrissie's eeriness\|Chrissie's eeriness]]
 [[Class activities/Actually, AFs need to be human to fulfill their task\|Actually, AFs need to be human to fulfill their task]]

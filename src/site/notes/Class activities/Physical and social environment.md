@@ -17,8 +17,12 @@ The story is set in a world like ours, with the same countries. City mobility lo
 ## Pages 24–39
 
 1. Klara is moved to the inside of the magazine, the to the display window for 6 days and 10 days later, to the alcove.
-2. Now Klara is not with Rosa all the time, she gets to spend time with other robots like Girl AF Kiku. Boy AF Rex appears again like if he hadn't been traumatised a few pages ago. 4 newer models, B3s, are introduced, three of them are bought. Rosa and Boy AF Rex are also bought. 3 other B3s are put in stock.
+2. Now Klara is not with Rosa all the time, she gets to spend time with other robots like Girl AF Kiku. Boy AF Rex appears again, like if he hadn't been traumatised a few pages ago. 4 newer models, B3s, are introduced, three of them are bought. Rosa and Boy AF Rex are also bought. 3 other B3s are put in stock.
 
-## Pages 40–?
+## Pages 40–89
  1. They're in Josie's house, it is located in a rural area with a view of three fields. Mr MacBain's "barn" is first described. It is revealed that they can do short trips to Morgan's Falls, so they live somewhere near Wisconsin.
-1. Melanie Housekeeper is introduced, the same with Rick. There is a social meeting in the house.
+2. Melanie Housekeeper is introduced, the same with Rick. There is a social meeting in the house. Dr. Ryan is introduced.
+
+## Pages 89-
+1. They're still in Josie's house. Atlas Brookings University is mentioned, only 2% of its students are unlifted. Klara visits Rick's house.
+2. Dr. Ryan often comes to treat Josie. Rick comes to visit her often for the first time in the book. Rick's mom, Helen, appears. She comes from England and acted in some theaters.

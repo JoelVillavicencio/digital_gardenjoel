@@ -31,7 +31,9 @@ The Mother is an avid believer of the neglectful parenting style. Josie's attach
 
 > Is this a highly-figurative lyrical text? Is Klara's perception of colour the same of as a marine mantis's? The real sky isn't divided into squares, never. Probably I'm overthinking this fragment. If when I finish the book without discovering anything weird about it, I'll erase this part, if not, here is a note containing my findings:
 
-> Klara's vision is divided into squares and that's why she sees the sky like that. I'm surprised I took too long to notice it. If I remember well, they were mentioned since a description Manager in the store.
+> Note: Klara's vision is divided into boxes and that's why she sees the sky like that. I'm surprised I took too long to notice it. If I remember well, they were mentioned since a description Manager in the store.
+
+> Note to the note: [Ishiguro said](https://www.waterstones.com/blog/an-exclusive-qanda-with-kazuo-ishiguro-on-klara-and-the-sun) she sees the world in boxes in moments of confusion or stress.
 ___
 #### Next note:
 
@@ -145,7 +147,7 @@ ___
 
 03-11-2024 09-11
 
-I think the mother doubts I have emotions, just because I'm mannered and obliging doesn't mean I don't have emotions. So far, I have showed signs of all emotions except for very strong negative ones like rage. And, of course, there are emotions like hangry or couple's love that couldn't happen in a being like me.
+I think the mother doubts I have emotions, just because I'm mannered and obliging doesn't mean I don't have emotions. So far, I have showed signs of all emotions except for very strong ones like rage or euphoria. And, of course, there are emotions like hangry or couple's love that couldn't happen in a being like me.
 
 > Klara, I'm not a doctor, and I'm still going to say this. Have you considered you show signs of Aspergers?
 

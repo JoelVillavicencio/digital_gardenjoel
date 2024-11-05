@@ -17,6 +17,8 @@ Josie ==vomits== and has ==pale feces==. (Part 2, paragraph 26)
 
 Josie gets tired with little physical exercise. (2, paragraph 79), and exhausted for no reason (2, 447).
 
+She ==sleeps== a lot when she is awful (3, 18)
+
 >‘They’re gray, ma’am.’  
 
 -Klara on Josie's eyes
