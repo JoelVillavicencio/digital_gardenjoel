@@ -40,19 +40,8 @@ Listen for better experience:
 
 ![[satanic-ceremony.mp3]]
 [Click here](https://www.youtube.com/watch?v=m8UjwcQRIXA) in case the audio player is not appearing/working.
-
-<div class="emphasis-block red"><div class="side-peice">&nbsp</div><div class="text-block"><span class="text-inner">The AntiSun</span></div></div>
-
-<div class="emphasis-block dark"><div class="side-peice">&nbsp</div><div class="text-block"><span class="text-inner">He's the only enemy of The Benevolent One. The first sighting of such horrendous creature occurred while Klara was in the magazine, smoke started emanating from its wicked organism, people worried and despised the incarnation of Evil.
-
-Not even the Sun can stand to his immense dark power, all he can do si retreat and wait for his opponent to go.
-
-The name of this creature?
-
-The Cootings Machine!!!
-</span></div></div>
-
-
+ 
+![Captura de pantalla 2024-11-10 074535.png](/img/user/Archives/Captura%20de%20pantalla%202024-11-10%20074535.png)
 
 
 
