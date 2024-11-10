@@ -10,7 +10,9 @@
 >The vocabulary used by Josie in paragraphs 73-77 could have implanted the wrong idea that the Sun hides in a specific physical spot.
 >> [!CAUTION] Deviations
 >> - In a moment from pages 6 to 9 Klara is so immersed in observing the outside world that she forgets the sunlight covering her skin.
->> - At the beginning of Part two Klara conceals the kitchen's skylight to block the Sun's rays, she did this for Josie. And now I wonder, how did Klara cope with the cognitive dissonance of having to take the "goodness" from Josie?                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         
+>> - At the beginning of Part two Klara conceals the kitchen's skylight to block the Sun's rays, she did this for Josie. And now I wonder, how did Klara cope with the cognitive dissonance of having to take the "goodness" from Josie? 
+>> - In (3, 384), Klara thought for a moment that the Sun wasn't kind, and, that, in fact, he was the Reason for Josie's worsening.
+
 
 >[!QUOTE] Dogmas
 >- The Sun is someone,  a him (paragraph 2)
@@ -18,9 +20,11 @@
 >- The Sun is goodness (paragraph 34)
 >- The Sun is kind (paragraph 37)
 >- The Sun can observe the world and act on stimuli (paragraph 108)
+>- The Sun can read minds (3, 429)
 >- The Sun can revive the dead (paragraph 199)
 >- Both AFs and humans receive the Sun's nourishment (2, paragraph 212)
 >- The Sun has emotions (3, 16)
+>- Human's pollution and inconsideration angers and saddens the Sun (3, 433) (3, 436)
 
 Mentions in the book: 
 
@@ -32,6 +36,7 @@ Mentions in the book:
 | Reviving the dead                | [[Part 1/Think goodbye (Pages 31 to 35)\|Think goodbye (Pages 31 to 35)]]                    |
 | Humans get nourished too         | [[Part 2/The meeting (Pages 52 to 68)\|The meeting (Pages 52 to 68)]]                      |
 Listen for better experience:
+### Entering this world's hell (according to Klara)
 
 ![[satanic-ceremony.mp3]]
 [Click here](https://www.youtube.com/watch?v=m8UjwcQRIXA) in case the audio player is not appearing/working.

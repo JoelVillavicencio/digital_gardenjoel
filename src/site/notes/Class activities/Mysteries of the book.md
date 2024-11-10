@@ -21,6 +21,7 @@
 >    Also Klara: 
 >    Estimates ages with months of precision.
 >    How can Klara be so precise in some things like ages and height? (3, 335)
+>- "That's not going to be possible" is attributed to Manager, but she never says this.
 
 >[!CHECK] Solved
 >- [[Class activities/Exact meaning of AF\|Exact meaning of AF]]

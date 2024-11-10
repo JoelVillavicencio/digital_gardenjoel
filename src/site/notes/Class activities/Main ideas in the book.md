@@ -6,10 +6,6 @@
 
 >[!Info] Link to Actively Learn
 >[Link](https://reader.activelylearn.com/student/7395174/notes)
-
-<h1> Klara and the Sun </h1>
- ![Drawing of Klara.png](/img/user/Archives/Drawing%20of%20Klara.png) 
- psdoadfjaso
 ## Check this mental map explaining the concepts of the story, worldbuilding, theories and much more!
 
 ![Mental map.png](/img/user/Archives/Mental%20map.png)

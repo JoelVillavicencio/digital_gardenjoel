@@ -29,7 +29,7 @@ We returned home, Josie's drawing. Throughout my experience in this house I've g
 ___
 #### Part Three:
 
-[[Part 3/Beginning of Part Three (Pages 89 to)\|Beginning of Part Three (Pages 89 to)]]
+[[Part 3/Beginning to end of Part Three (Pages 89 to 144)\|Beginning to end of Part Three (Pages 89 to 144)]]
 
 
  

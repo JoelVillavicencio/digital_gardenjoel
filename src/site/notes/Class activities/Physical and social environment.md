@@ -21,8 +21,8 @@ The story is set in a world like ours, with the same countries. City mobility lo
 
 ## Pages 40–89
  1. They're in Josie's house, it is located in a rural area with a view of three fields. Mr MacBain's "barn" is first described. It is revealed that they can do short trips to Morgan's Falls, so they live somewhere near Wisconsin.
-2. Melanie Housekeeper is introduced, the same with Rick. There is a social meeting in the house. Dr. Ryan is introduced.
+2. Melanie Housekeeper is introduced, the same with Rick, who's is goog at STEM. There is a social meeting in the house. Dr. Ryan is introduced.
 
-## Pages 89-
+## Pages 89–
 1. They're still in Josie's house. Atlas Brookings University is mentioned, only 2% of its students are unlifted. Klara visits Rick's house.
-2. Dr. Ryan often comes to treat Josie. Rick comes to visit her often for the first time in the book. Rick's mom, Helen, appears. She comes from England and acted in some theaters.
+2. Dr. Ryan often comes to treat Josie. Rick comes to visit her often for the first time in the book. Rick's mom, Helen, appears. She comes from England and acted in some theatres. Mr Capaldi mentioned at the end.

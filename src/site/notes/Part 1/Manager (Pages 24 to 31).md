@@ -15,6 +15,8 @@ The newer robot models are being exposed in the parts of the magazine that head 
 
 > I'm starting to dislike Manager, at the beginning I thought she was the stereotype of _nice person_, then she started to hide here emotions from the AFs and give defeatist advice as if it was law, or just outright lie. The worst part is that the AFs of the store still trust her.
 
+> Or they don't? Future Joel here, salutations. When Klara first enters Mr McBain's barn (don't need to explain what that is here), she curiously says "[...]an AF standing there[the front alcove] proudly at the spot where - no matter what else was said - customers were most likely to look first."
+
 ___
 #### Next note:
 
