@@ -24,7 +24,7 @@ We just arrived to our destination, I'm happy to see several other AFs here. I k
 
 We returned home, Josie's drawing. Throughout my experience in this house I've gathered info about my human. The conclusion: she has a bull ton of problems!
 
-![wondering-i-wonder-what-would-happen.gif](/img/user/Class%20activities/wondering-i-wonder-what-would-happen.gif)
+![wondering-i-wonder-what-would-happen.gif](/img/user/Archives/wondering-i-wonder-what-would-happen.gif)
 
 ___
 #### Part Three:

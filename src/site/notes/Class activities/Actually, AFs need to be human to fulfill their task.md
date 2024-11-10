@@ -11,6 +11,7 @@ Programmers could have said "F*&• off, having a standard computer program do t
 I got the idea to write this note while I was being idle in TV Tropes, so it is fair to include the article that inspired it:
 <iframe title="Ridiculously Human Robots" src="https://tvtropes.org/pmwiki/pmwiki.php/Main/RidiculouslyHumanRobots" allow="fullscreen" allowfullscreen="" style="height: 100%; width: 100%; aspect-ratio: 1 / 1;"></iframe>
 This is not an image, it's an actual website.
+[Press in case website is not showing](https://tvtropes.org/pmwiki/pmwiki.php/Main/RidiculouslyHumanRobots)
 
 Let's not forget that AFs are a replacement of humans, so making them as faulty as humans would not only be a rational decision, but _the goal_. 
 

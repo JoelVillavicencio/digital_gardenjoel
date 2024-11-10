@@ -34,14 +34,14 @@ The thinking of having a painted depiction of herself could have given bad thoug
 
 Now more than ever is time to act, the destruction of the Cootings Machine has become a requirement for Josie's health improvement.
 
-![194-1942498_pinkie-pie-youre-gonna-die-pinkie-pie-serious-face-removebg-preview.png](/img/user/194-1942498_pinkie-pie-youre-gonna-die-pinkie-pie-serious-face-removebg-preview.png)
+![194-1942498_pinkie-pie-youre-gonna-die-pinkie-pie-serious-face-removebg-preview.png](/img/user/Archives/194-1942498_pinkie-pie-youre-gonna-die-pinkie-pie-serious-face-removebg-preview.png)
 
 > This part was simple in its settings. We can divide this 55-page-long segment in where - yes, not when - they were in Josie's room, Rick's house and the trip to McBain's barn (and the connective tissue of the preparation for the trip to the city). 
 
 [^1]: [[Sun religion#Entering this world's hell (according to Klara)\|Sun religion#Entering this world's hell (according to Klara)]]
 
 ___
-#### Next note:
+#### Part four:
 
 
 

@@ -14,6 +14,7 @@
 [[Class activities/Physical and social environment\|Physical and social environment]]
 [[Sun religion\|Sun religion]]
 [[Class activities/Mysteries of the book\|Mysteries of the book]]
+[[Part 2/The house\|The house]]
 [[Class activities/Exact meaning of AF\|Exact meaning of AF]]
 [[Class activities/Implications in our reality\|Implications in our reality]]
 [[Class activities/Differences from our world\|Differences from our world]]

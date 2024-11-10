@@ -3,7 +3,7 @@
 ---
 
 For this part, the Mental map's branches got updated, erased and divided several times. The most significant addition was the creation of a completely new section named The House, which explains the mechanics of the Arthur family with bullet points and relation arrows.
-![The House.png](/img/user/Archives/The%20House.png)
+![The house 1.png](/img/user/Archives/The%20house%201.png)
 In case you don't want to hop from note to note, here they are in chronological order:
 
 [[Part 2/More of the house (Pages 41 to 44)\|More of the house (Pages 41 to 44)]]
@@ -196,7 +196,7 @@ We just arrived to our destination, I'm happy to see several other AFs here. I k
 
 We returned home, Josie's drawing. Throughout my experience in this house I've gathered info about my human. The conclusion: she has a bull ton of problems!
 
-![wondering-i-wonder-what-would-happen.gif](/img/user/Class%20activities/wondering-i-wonder-what-would-happen.gif)
+![wondering-i-wonder-what-would-happen.gif](/img/user/Archives/wondering-i-wonder-what-would-happen.gif)
 
 ___
 #### Part Three:
