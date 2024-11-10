@@ -6,4 +6,4 @@
 
 First day before _**SOMETHING**_ / 20 Minutes into the Future  
 
-	We arrived to the city expecting to meet Mr Capaldi so that he could take more pictures for Josie's portrait and fulfill his desire of meeting an Artificial Friend, me.
+==We arrived to the city expecting to meet Mr Capaldi so that he could take more pictures for Josie's portrait and fulfill his desire of meeting an Artificial Friend, me.==
