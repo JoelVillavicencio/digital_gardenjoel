@@ -18,6 +18,8 @@ It could also be related to ethics. Yes, to prevent the paperclip maximiser, let
 
 This video from Rational Animations explains the pros of human morality better than I can:
 ![](https://www.youtube.com/watch?v=gpBqw2sTD08)
+[Press in case the video isn't showing](https://www.youtube.com/watch?v=gpBqw2sTD08)
+
 The moment when Rosa doesn't perceive the taxi men punching each other as a fight could be a counterargument to the matching moralities point and the question in the beginning.
 
 P.D. This defense doesn't disprove that Ishiguro just did it for the sake of impactful storytelling.
