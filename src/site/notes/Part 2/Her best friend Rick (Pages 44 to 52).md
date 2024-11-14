@@ -19,7 +19,7 @@ They're meeting on Tuesday, I wonder what will happen.
 
 > Klara talks to people in third person, how curious[^1].
 
-[^1]: This is very interesting, I first thought AFs did this with humans to identify themselves as Afs, something coming with [[Class activities/The Mental Seal\|The Mental Seal]][^2]. I was wrong, later when Klara does an impression of Josie, she is capable of speaking in the second person.
+[^1]: This is very interesting, I first thought AFs did this with humans to identify themselves as Afs, something coming with [[Class activities/The Mental Seal\|The Mental Seal]][^2]. I was wrong, later when Klara does an impression of Josie, she is capable of speaking in the second person. She tends to speak about herself in the third person too (4, 370).
 
 [^2]: By the way, this theory is falling into pieces as I advance through the book.
 ___

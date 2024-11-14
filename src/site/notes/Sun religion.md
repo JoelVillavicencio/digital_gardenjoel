@@ -12,6 +12,7 @@
 >> - In a moment from pages 6 to 9 Klara is so immersed in observing the outside world that she forgets the sunlight covering her skin.
 >> - At the beginning of Part two Klara conceals the kitchen's skylight to block the Sun's rays, she did this for Josie. And now I wonder, how did Klara cope with the cognitive dissonance of having to take the "goodness" from Josie? 
 >> - In (3, 384), Klara thought for a moment that the Sun wasn't kind, and, that, in fact, he was the Reason for Josie's worsening.
+>> - Klara is disappointed with the Sun not acting promptly after she kills the Cootings Machine
 
 
 >[!QUOTE] Dogmas
@@ -44,6 +45,6 @@ Listen for better experience:
 [Click here](https://www.youtube.com/watch?v=m8UjwcQRIXA) in case the audio player is not appearing/working.
  
 ![Captura de pantalla 2024-11-10 074535.png](/img/user/Archives/Captura%20de%20pantalla%202024-11-10%20074535.png)
+	Overhaul men are usually sighted before *he* appears, and sometimes they just spawn without *him* appearing.
 
-
-
+It is pale yellow, has wheels and three short funnels

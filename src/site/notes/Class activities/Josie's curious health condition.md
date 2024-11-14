@@ -19,6 +19,7 @@ Josie gets tired with little physical exercise. (2, paragraph 79), and exhausted
 
 She ==sleeps== a lot when she is awful (3, 18)
 
+>"[...]new signs, such as ==strange breathing=="
 >‘They’re gray, ma’am.’  
 
 -Klara on Josie's eyes
