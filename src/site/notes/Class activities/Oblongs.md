@@ -9,7 +9,7 @@ The term robots use for smartphones.
 > "Press their oblongs", says Klara in paragraph 41, denoting that she doesn't know what smartphones are used for.
 
 > [!Caution] This content is outdated and false
-> Continue with discretion
+> Continue with discretion.
 
 Klara's smart enough to identify ordinary objects: sports shoes, office paraphernalia, bricks, a tow-away zone, a pedestrian crossing, etc. She hasn't had personal experiences with these objects yet, why would she have had? She has only lived for a few days. So, in order to understand their function and context, she should have preloaded knowledge, as hypothesised in [[Part 1/Klara's presentation and sapience  (Pages 1 to 3)\|Klara's presentation and sapience  (Pages 1 to 3)]].
 

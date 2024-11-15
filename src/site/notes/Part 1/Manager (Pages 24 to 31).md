@@ -13,7 +13,7 @@ Manager told me that if I was waiting for a kid ("Yes, Josie", I thought to myse
 
 The newer robot models are being exposed in the parts of the magazine that head to the outside. Rosa is repeating to herself what manager said "You are as likely to be chosen mid-store as in the window or the front alcove."
 
-> I'm starting to dislike Manager, at the beginning I thought she was the stereotype of _nice person_, then she started to hide here emotions from the AFs and give defeatist advice as if it was law, or just outright lie. The worst part is that the AFs of the store still trust her.
+> I'm starting to dislike Manager, at the beginning I thought she was the stereotype of _nice person_, then she started to hide her emotions from the AFs and give defeatist advice as if it was law, or just outright lie. The worst part is that the AFs of the store still trust her.
 
 > Or they don't? Future Joel here, salutations. When Klara first enters Mr McBain's barn (don't need to explain what that is here), she curiously says "[...]an AF standing there[the front alcove] proudly at the spot where - no matter what else was said - customers were most likely to look first."
 

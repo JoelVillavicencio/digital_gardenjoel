@@ -20,7 +20,7 @@ The story is set in a world like ours, with the same countries. City mobility lo
 2. Now Klara is not with Rosa all the time, she gets to spend time with other robots like Girl AF Kiku. Boy AF Rex appears again, like if he hadn't been traumatised a few pages ago. 4 newer models, B3s, are introduced, three of them are bought. Rosa and Boy AF Rex are also bought. 3 other B3s are put in stock.
 
 ## Pages 40–89
- 1. They're in Josie's house, it is located in a rural area with a view of three fields. Mr MacBain's "barn" is first described. It is revealed that they can do short trips to Morgan's Falls, so they live somewhere near Wisconsin.
+ 1. They're in Josie's house, it is located in a rural area with a view of three fields. Mr McBain's "barn" is first described. It is revealed that they can do short trips to Morgan's Falls, so they live somewhere near Wisconsin.
 2. Melanie Housekeeper is introduced, the same with Rick, who is good at STEM. There is a social meeting in the house. Dr. Ryan is introduced.
 
 ## Pages 89–144
@@ -32,3 +32,5 @@ The story is set in a world like ours, with the same countries. City mobility lo
 2. Chrissie, Helen, Josie and Rick go in the trip to the city. Paul is introduced. Vance is talked about and introduced almost at the end. There are many people making the background of the city. The Father praises Rick's abilities.
 
 ## Pages 212–?
+1. Klara stays in the house.
+2. The known characters have grown, the kids become young adults. Many of Josie's friends come. Klara talks about a new housekeeper.

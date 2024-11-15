@@ -5,9 +5,9 @@
 04-11-2024 13-11
 #Adventure
 
-Both the Mother and Josie have become more distant in the lasta days, Josie can sometimes not say the truth to me now, her smiles are,, different; she felt terribly sick and while Melania is keeping an eye on her and the other on her oblong, I'll go outside alone for the first time.
+Both the Mother and Josie have become more distant in the last days, Josie can sometimes not say the truth to me now, her smiles are,, different; she felt terribly sick and while Melania is keeping an eye on her and the other on her oblong, I'll go outside alone for the first time.
 
-The Sun has taken so much time in sending his reviving rays to Josie, so I might need to draw his attention to her case.
+The Sun has taken so much time in sending his special help (reviving rays) to Josie, so I might need to draw his attention to her case.
 
 ___
 
@@ -15,7 +15,7 @@ That wasn't necessary, Josie is less awful now. Rick often comes to see her, at 
 
 Now Josie has sent me in a mission to apologise to Rick. In his house, he was nicer, or at least he didn't ignore me. I talked to his mother, and she believes she saw Sal alive after her supposed death.
 
-> If this Chekhov's gun is fired, this book could be considered a  psychological thriller
+> If this Chekhov's gun is fired, this book could be considered a  psychological thriller.
 
 Helen has a contact to push Rick into Atlas Brookings[^1], the problem is that Rick is not motivated to study hard, he's afraid of many things, mainly of leaving his mother alone. Helen has asked me to convince Josie of convincing Rick of studying hard, now it's one of my missions.
 

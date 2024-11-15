@@ -36,6 +36,7 @@ Mentions in the book:
 | It is possible to forget the Sun | [[Part 1/Hier kommt die Sonne! (Pages 6 to 9)\|Hier kommt die Sonne! (Pages 6 to 9)]]              |
 | Reviving the dead                | [[Part 1/Think goodbye (Pages 31 to 35)\|Think goodbye (Pages 31 to 35)]]                    |
 | Humans get nourished too         | [[Part 2/The meeting (Pages 52 to 68)\|The meeting (Pages 52 to 68)]]                      |
+| AF superstition                  | [[Part 6/Dyḗus ph₂tḗr\|Dyḗus ph₂tḗr]]                                      |
  
 ### Entering this world's hell (according to Klara)
 

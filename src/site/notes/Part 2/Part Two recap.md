@@ -182,7 +182,7 @@ There's a twist to the twist and I can go with the mother without Josie, which i
 
 > How interesting that the Mother remarks Josie was toying with her feelings by saying Klara wanted to do this. It's a reasonable observation, I would only suggest her to tell that to her daughter and not some indirect response of "then Klara is going". Unless she's scheming something....
 
-At least I suspect the Mother sincerely wants to be with Josie. I corrected her when she said again I didn't have feeling.
+At least I suspect the Mother sincerely wants to be with Josie. I corrected her when she said, again, I didn't have feeling.
 
 > Well done, Klara. Let's not create unnecessary confusion.
 

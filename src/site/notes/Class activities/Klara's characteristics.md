@@ -11,7 +11,7 @@
 > - Aesthetic characteristics: being cute, having hair (At least for female models (paragraphs 63-66))
 > - Can feel pain (paragraph 148)
 > - Capability of diagnosis (Josie's walk)
-> - Vision divided in boxes. I have the informed suspicion that there are 8 main boxes and 12 peripheral boxes.
+> - Vision divided in boxes. I have the informed suspicion that there are 8 main boxes and 12 peripheral boxes when nothing's glitching too hard.
 > - Capability of lying (3, 201) (3, 500)
 > - Capability of forgetting. Compare (3, 408) to (1, 73-77)
 
