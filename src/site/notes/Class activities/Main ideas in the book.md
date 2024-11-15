@@ -6,9 +6,24 @@
 
 >[!Info] Link to Actively Learn
 >[Link](https://reader.activelylearn.com/student/7395174/notes)
-## Check this mental map explaining the concepts of the story, worldbuilding, theories and much more!
+## It is my pleasure to show you the new Mental map updated with absolutely all the contents from the book!
 
-![Mental map.png](/img/user/Archives/Mental%20map.png)
+Without skipping a single line.
+
+### Worldbuilding visualized
+
+![Story visualized.png](/img/user/Archives/Story%20visualized.png)
+
+### A lot of theories
+
+![A lot of theories.png](/img/user/Archives/A%20lot%20of%20theories.png)
+
+### Engaging recaps
+
+![Engaging recaps.png](/img/user/Archives/Engaging%20recaps.png)
+Do you still want to see the old one? Here it is: [[Class activities/Old Mental Map\|Old Mental Map]]
+
+Do you want to see the entire updated map? Ok : [[Class activities/New Map without zoom\|New Map without zoom]]
 ## Links to individual notes of the mental map :
 [[Class activities/Klara's characteristics\|Klara's characteristics]]
 [[Class activities/Physical and social environment\|Physical and social environment]]
@@ -20,6 +35,17 @@
 [[Class activities/Implications in our reality\|Implications in our reality]]
 [[Class activities/Differences from our world\|Differences from our world]]
 
-## Diary of specific events :
+## Beginning of diary :
 
 [[Part 1/Klara's presentation and sapience  (Pages 1 to 3)\|Klara's presentation and sapience  (Pages 1 to 3)]]
+
+## Diary sorted by part :
+
+| Part  | Starting note                                          | Recap (if it exists) |
+| ----- | ------------------------------------------------------ | -------------------- |
+| One   | [[Part 1/Klara's presentation and sapience  (Pages 1 to 3)\|Klara's presentation and sapience  (Pages 1 to 3)]]  |                      |
+| Two   | [[Part 2/The house (Pages 40 to 41) l Beginning of Part Two\|The house (Pages 40 to 41) l Beginning of Part Two]] | [[Part 2/Part Two recap\|Part Two recap]]   |
+| Three | [[Part 3/Beginning to end of Part Three (Pages 89 to 144)\|Beginning to end of Part Three (Pages 89 to 144)]]   |                      |
+| Four  | [[Part 4/Soleil (Part 4)\|Soleil (Part 4)]]                                    |                      |
+| Five  | [[Part 5/太陽 (Part 5)\|太陽 (Part 5)]]                                        |                      |
+| Six   | [[Part 6/Dyḗus ph₂tḗr\|Dyḗus ph₂tḗr]]                                       |                      |

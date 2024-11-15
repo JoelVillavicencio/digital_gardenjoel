@@ -7,3 +7,4 @@
 - Strict (in a demanding sense)
 - Carries Josie's emergency medicines in trips.
 - Probably isn't from America.
+- Hard-working

@@ -22,6 +22,7 @@ She ==sleeps== a lot when she is awful (3, 18)
 According to doctors, there's a terrible stage that, if survived, lifted people will be ok thereafter.
 
 >"[...]new signs, such as ==strange breathing=="
+
 >‘They’re gray, ma’am.’  
 
 -Klara on Josie's eyes

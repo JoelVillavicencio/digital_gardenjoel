@@ -32,5 +32,5 @@ The story is set in a world like ours, with the same countries. City mobility lo
 2. Chrissie, Helen, Josie and Rick go in the trip to the city. Paul is introduced. Vance is talked about and introduced almost at the end. There are many people making the background of the city. The Father praises Rick's abilities.
 
 ## Pages 212–?
-1. Klara stays in the house.
-2. The known characters have grown, the kids become young adults. Many of Josie's friends come. Klara talks about a new housekeeper.
+1. Klara stays in the house and hides in the utility room, then she somehow ends in a dump.
+2. The known characters have grown, the kids become young adults. Many of Josie's friends come. Klara talks about a new housekeeper. Josie and Rick depart from their houses. Mr Capaldi comes for a possibly final visit. Klara and the Manager talk for a surprisingly short time.
