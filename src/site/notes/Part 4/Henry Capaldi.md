@@ -2,6 +2,8 @@
 {"dg-publish":true,"permalink":"/part-4/henry-capaldi/"}
 ---
 
+#Mappingnarrative 
+
 Works on a brick building with a photo-shoot studio, of course. His workplace has futuristic elements, like a purple door opened with a keypad.
 
 He believes in the potential of AFs, something to do with their advanced intellects.

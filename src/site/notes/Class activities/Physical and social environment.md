@@ -31,6 +31,6 @@ The story is set in a world like ours, with the same countries. City mobility lo
 1. They arrive to the city stay in a previously unmentioned friend's house, go to Capaldi's house, a restaurant, with the Cootings machine, and a sushi place, in that order. A waitress named Cindy revealed that the magazine from the beginning turned into a furniture store. Klara went to a diner, returned to the friend's house, and everyone went back to their houses in the rural area.
 2. Chrissie, Helen, Josie and Rick go in the trip to the city. Paul is introduced. Vance is talked about and introduced almost at the end. There are many people making the background of the city. The Father praises Rick's abilities.
 
-## Pages 212–?
+## Pages 212–244
 1. Klara stays in the house and hides in the utility room, then she somehow ends in a dump.
 2. The known characters have grown, the kids become young adults. Many of Josie's friends come. Klara talks about a new housekeeper. Josie and Rick depart from their houses. Mr Capaldi comes for a possibly final visit. Klara and the Manager talk for a surprisingly short time.

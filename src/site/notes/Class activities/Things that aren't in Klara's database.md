@@ -2,6 +2,8 @@
 {"dg-publish":true,"permalink":"/class-activities/things-that-aren-t-in-klara-s-database/"}
 ---
 
+#Mappingnarrative  
+
 This list does not contain anything before the first half of Part Two.
 
 - Some slurs

@@ -6,7 +6,7 @@
 
 >[!Info] Link to Actively Learn
 >[Link](https://reader.activelylearn.com/student/7395174/notes)
-## It is my pleasure to show you the new Mental map updated with absolutely all the contents from the book!
+## It is my pleasure to show you the new mental map updated with absolutely all the contents from the book!
 
 Without skipping a single line.
 
