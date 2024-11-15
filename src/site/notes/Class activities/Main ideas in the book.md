@@ -49,3 +49,6 @@ Do you want to see the entire updated map? Ok : [[Class activities/New Map witho
 | Four  | [[Part 4/Soleil (Part 4)\|Soleil (Part 4)]]                                    |                      |
 | Five  | [[Part 5/太陽 (Part 5)\|太陽 (Part 5)]]                                        |                      |
 | Six   | [[Part 6/Dyḗus ph₂tḗr\|Dyḗus ph₂tḗr]]                                       |                      |
+
+![DEATH THE SUN.png](/img/user/Archives/DEATH%20THE%20SUN.png)
+<center> End of the main page </center>
