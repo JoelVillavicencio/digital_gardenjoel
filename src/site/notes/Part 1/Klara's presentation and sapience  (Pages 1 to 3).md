@@ -12,6 +12,7 @@
 >Everything else is Klara's diary in her words.
 
 
+
 I am a product in a store. I'm a part of the AF robots, AF seems to be the analog of AI in this world. My peers and I don't tend to see the Sun, so it is a mysterious entity[^2]. 
 
 On my intelligence, It seems I am as intelligent as a human, if not smarter. I was born recently, and I already am capable of fluent speech, complex emotions and self-regulation. Given that I can reason about situations I'm not familiarised with, I'd say I'm a general AI.
