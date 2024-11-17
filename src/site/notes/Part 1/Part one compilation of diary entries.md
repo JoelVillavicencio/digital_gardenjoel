@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/part-1/part-one-compilation-of-diary-entries/"}
 ---
 
-### Individual notes :
+### Individual notes in this compilation :
 [[Part 1/Klara's presentation and sapience  (Pages 1 to 3)\|Klara's presentation and sapience  (Pages 1 to 3)]]
 [[Part 1/AF's main worry (Pages 3 to 6)\|AF's main worry (Pages 3 to 6)]]
 [[Part 1/Hier kommt die Sonne! (Pages 6 to 9)\|Hier kommt die Sonne! (Pages 6 to 9)]]
