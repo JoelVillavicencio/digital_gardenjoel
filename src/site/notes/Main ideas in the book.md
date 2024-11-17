@@ -39,7 +39,7 @@ Do you want to see the entire updated map? Ok : [[Class activities/New Map witho
 
 [[Part 1/Klara's presentation and sapience  (Pages 1 to 3)\|Klara's presentation and sapience  (Pages 1 to 3)]]
 
-## Diary sorted by part :
+## Diary sorted by parts :
 
 | Part  | Starting note                                          | Recap (if it exists) |
 | ----- | ------------------------------------------------------ | -------------------- |
