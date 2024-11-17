@@ -8,7 +8,6 @@
 > - Origin of [[Sun religion\|Sun religion]]
 > ~~What does AF mean exactly?~~
 > - How do robots work?
-> - [[Class activities/The Mental Seal\|The Mental Seal]]
 > - Why would someone program biases in a robot that is supposed to raise young teenagers?
 >> [!WARNING] The house
 >> - Josie's health
@@ -25,8 +24,11 @@
 
 >[!CHECK] Solved
 >- [[Class activities/Exact meaning of AF\|Exact meaning of AF]]
+>- [[Class activities/The Mental Seal\|The Mental Seal]] 
+> (There's no mental seal)
 
 ### Answer attempts :
 [[Class activities/Josie's curious health condition\|Josie's curious health condition]]
 [[Class activities/Chrissie's eeriness\|Chrissie's eeriness]]
 [[Class activities/Actually, AFs need to be human to fulfill their task\|Actually, AFs need to be human to fulfill their task]]
+[[Class activities/The Mental Seal\|The Mental Seal]]
