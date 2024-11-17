@@ -12,7 +12,7 @@ The definitive compilation, I guess.
 
 
 
-### Individual notes :
+### Individual notes in this compilation :
 [[Part 1/Klara's presentation and sapience  (Pages 1 to 3)\|Klara's presentation and sapience  (Pages 1 to 3)]]
 [[Part 1/AF's main worry (Pages 3 to 6)\|AF's main worry (Pages 3 to 6)]]
 [[Part 1/Hier kommt die Sonne! (Pages 6 to 9)\|Hier kommt die Sonne! (Pages 6 to 9)]]
@@ -36,6 +36,7 @@ The definitive compilation, I guess.
 >> "This is the format for a quote, don't confuse it with the commentary, this one has apostrophes"
 >
 >This is a footnote[^1]
+>>[!Danger] If you're reading this from a compilation, be warned, footnotes don't work properly inside compilations, you would have to read the individual note by looking for it in the search bar or in the glossary at the beginning of the compilation.
 >
 >Everything else is Klara's diary in her words.
 

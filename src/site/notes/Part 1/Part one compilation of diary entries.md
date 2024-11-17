@@ -26,6 +26,7 @@
 >> "This is the format for a quote, don't confuse it with the commentary, this one has apostrophes"
 >
 >This is a footnote[^1]
+>>[!Danger] If you're reading this from a compilation, be warned, footnotes don't work properly inside compilations, you would have to read the individual note by looking for it in the search bar or in the glossary at the beginning of the compilation.
 >
 >Everything else is Klara's diary in her words.
 
