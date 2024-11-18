@@ -15,7 +15,7 @@ Watch the 4+ hour-long making process :
 
 Sped up version : 
 
-Uncut[^1] and unmodified version:
+Uncut[^1] and unmodified version :
 
 Full code used to draw the cover :
 
