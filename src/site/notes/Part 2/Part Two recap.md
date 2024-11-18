@@ -25,7 +25,7 @@ Melania Housekeeper is not very enthusiastic about my presence, and that's OK wi
 
 The Mother is an avid believer of the neglectful parenting style. Josie's attachment to her sometimes acts against her well-being.
 
-##### Klara's description of the sky
+# Klara's description of the sky
 
 >"The sky from the bedroom rear window was far larger than the gap of sky at the store - and capable of surprising variations. Sometimes it was the color of the lemons in the fruit bowl, then could turn to the gray of the slate chopping boards. When Josie wasn't well, it could turn the color of her vomit or her pale feces, or even develop streaks of blood. Sometimes the sky would become divided into a series of squares, each one a different shade of purple to its neighbor."
 
