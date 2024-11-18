@@ -15,7 +15,7 @@ Watch the 4+ hour-long making process :
 
 Sped up version : 
 
-Uncut and unmodified version:
+Uncut[^1] and unmodified version:
 
 Full code used to draw the cover :
 
@@ -463,3 +463,5 @@ svg.append("path")
 </html>
 }
 ```
+
+[^1]: The work sessions are separated, but the work is there.
