@@ -11,13 +11,13 @@
 Cover made in D3.js, a Javascript library made for data visualisation. I used it for the personalization it offers to create details in graphics, and for its virtually limitless resolution due to its use of SVG. It is also thematically coherent to the AI book narrator.
 Creating the cover took several creative sessions distributed among two days.
 
-Watch the 4+ hour-long making process :
+### Watch the 4+ hour-long making process :
 
-Sped up version : 
+- Sped up version : 
 
-Uncut[^1] and unmodified version :
+- Uncut[^1] and unmodified version :
 
-Full code used to draw the cover :
+### Full code used to draw the cover :
 
 ```html
 <html>
