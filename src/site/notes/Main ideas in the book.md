@@ -31,7 +31,6 @@ Do you want to see the entire updated map? Ok : [[Class activities/New Map witho
 [[Class activities/Mysteries of the book\|Mysteries of the book]]
 [[Part 2/The house\|The house]]
 [[Class activities/Josie's curious health condition\|Josie's curious health condition]]
-[[Class activities/Exact meaning of AF\|Exact meaning of AF]]
 [[Class activities/Implications in our reality\|Implications in our reality]]
 [[Class activities/Differences from our world\|Differences from our world]]
 
