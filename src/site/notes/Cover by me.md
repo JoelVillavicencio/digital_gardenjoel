@@ -3,3 +3,7 @@
 ---
 
 ![Cover.png](/img/user/Archives/Cover.png)
+
+
+
+![Cover deconstruction.png](/img/user/Cover%20deconstruction.png)

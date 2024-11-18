@@ -34,6 +34,6 @@ The people talking in the video didn't like the language used, even though they 
 ![Captura de pantalla 2024-11-18 150053.png](/img/user/Archives/Captura%20de%20pantalla%202024-11-18%20150053.png)
 Taika Waititi, the same guy that directed Jojo Rabbit, will direct the Klara and the Sun movie adapatation.
 
-![Jenna Ortega.jpg](/img/user/Jenna%20Ortega.jpg)
+![Jenna Ortega.jpg](/img/user/Archives/Jenna%20Ortega.jpg)
 Jenna Ortega will act as Klara.
 
