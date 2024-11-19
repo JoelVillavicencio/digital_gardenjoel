@@ -6,7 +6,7 @@
 
 
 
-![Cover deconstruction.png](/img/user/Archives/Cover%20deconstruction.png)
+![Explanation for the design of the cover.png](/img/user/Archives/Explanation%20for%20the%20design%20of%20the%20cover.png)
 
 Cover made in D3.js, a Javascript library made for data visualisation. I used it for the personalization it offers to create details in graphics, and for its virtually limitless resolution due to its use of SVG. It is also thematically coherent to the AI book narrator.
 Creating the cover took several creative sessions distributed among two days.
