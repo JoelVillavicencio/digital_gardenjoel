@@ -13,9 +13,11 @@ Creating the cover took several creative sessions distributed among two days.
 
 ### Watch the 4+ hour-long making process :
 
-- Sped up version : 
+- Sped up version : [Here](https://drive.google.com/file/d/1udYeWSBOxtybJ449EOYSuR3ARUEUi2Pj/view?usp=sharing)
+	- [Music](https://www.youtube.com/watch?v=D-O-Z_-Kybk)
+	- [Clip](https://www.youtube.com/watch?v=cZIUW55IL_M) (Minute 23)
 
-- Uncut[^1] and unmodified version :
+- Uncut[^1] and unmodified version : [Here](https://drive.google.com/file/d/1TUerGJkgwv-vlCI7VyqlAVRMNBPfkBE8/view?usp=sharing)
 
 ### Full code used to draw the cover :
 
